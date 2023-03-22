@@ -1,20 +1,20 @@
 Algoritmo "Aula 01"
-// Disciplina   : [Linguagem e Lógica de Programação] 
-// Professor   : Antonio Carlos Nicolodi 
+// Disciplina   : [Linguagem e LÃ³gica de ProgramaÃ§Ã£o] 
+// Professor   : Carlos Anderson
 // Autor(a)    : Kaique Barbosa
 // Data atual  : 21/03/2023
 // Enunciado da atividade:
-// Constua um algoritimo para ler dois número.
-//Em seguida, calcule a soma desses números, armazenand
-//o resultado em outra variável. Imprima os dados iniciais e a soma
+// Constua um algoritimo para ler dois nÃºmero.
+//Em seguida, calcule a soma desses nÃºmeros, armazenand
+//o resultado em outra variÃ¡vel. Imprima os dados iniciais e a soma
 Var
 n1, n2, soma:real
 
 
 Inicio
-escreva("Digite um número  ")
+escreva("Digite um nÃºmero  ")
 leia(n1)
-escreva("Digite outro número  ")
+escreva("Digite outro nÃºmero  ")
 leia(n2)
 
 //pular linha
@@ -23,8 +23,8 @@ escreval("")
 //FIM pular linha
 
 soma <- n1 + n2;
-escreval("Primeiro número ", n1)
-escreval("Segundo número" , n2)
+escreval("Primeiro nÃºmero ", n1)
+escreval("Segundo nÃºmero" , n2)
 escreval("soma = ", soma)
 
 Fimalgoritmo
