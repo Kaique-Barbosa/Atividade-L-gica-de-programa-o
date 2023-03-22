@@ -1,7 +1,7 @@
-Algoritmo "semnome"
-// Disciplina   : [Linguagem e Lógica de Programação]
+Algoritmo "MEdias escolares"
+// Disciplina   : [Linguagem e LÃ³gica de ProgramaÃ§Ã£o]
 // Professor   : Antonio Carlos Nicolodi 
-// Descrição   : Aqui você descreve o que o programa faz! (função)
+// DescriÃ§Ã£o   : Calculo de mÃ©dias de notas
 // Autor(a)    : Nome do(a) aluno(a)
 // Data atual  : 21/03/2023
 Var
@@ -17,22 +17,22 @@ Inicio
 escreval("digite as notas das 4 unidades")
      
 
-       escreval("1º unidade")
+       escreval("1Âº unidade")
        leia(nota1)
  escreval("-----------------")
 
 
-      escreval("2º unidade")
+      escreval("2Âº unidade")
       leia(nota2)
     escreval("-----------------")
 
 
-    escreval("3º unidade")
+    escreval("3Âº unidade")
     leia(nota3)
 escreval("-----------------")
 
 
-    escreval("4º unidade")
+    escreval("4Âº unidade")
       leia(nota4)
 escreval("-----------------")
  
