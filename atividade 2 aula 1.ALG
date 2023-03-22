@@ -1,6 +1,10 @@
-Algoritmo "Varias operaÁıes matem·ticas"
-// Autor(a)    : Kaique barbosa
+Algoritmo "Varias opera√ß√µes matem√°ticas"
+// Professor   : Carlos Anderson
+// Autor(a)    : Kaique Barbosa
 // Data atual  : 21/03/2023
+
+
+
 Var
 n1, n2, soma, divi, subt, mult:real
 
@@ -27,13 +31,13 @@ escreval()
 escreval("Resultado da soma: ", soma )
  escreval()
 
-escreval("Resultado da subtraÁ„o: ", divi)
+escreval("Resultado da subtra√ß√£o: ", divi)
   escreval()
 
-escreval("Resultado da multiplicaÁ„o: ", subt)
+escreval("Resultado da multiplica√ß√£o: ", subt)
   escreval()
 
-escreval("Resultado da Divis„o: ", mult)
+escreval("Resultado da Divis√£o: ", mult)
   escreval()
 //FIM
 
