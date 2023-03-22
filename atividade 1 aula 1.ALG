@@ -17,6 +17,8 @@ leia(n1)
 escreva("Digite outro número  ")
 leia(n2)
 
+limpatela
+
 //pular linha
 escreval("")
 escreval("")
