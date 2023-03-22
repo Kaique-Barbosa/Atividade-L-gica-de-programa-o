@@ -8,11 +8,14 @@ Var
 nome:caracter,
 idade:inteiro,
 nota1, nota2, nota3, nota4, media: real;
+
 Inicio
  escreval("Qual o nome do aluno?")
  leia(nome)
  escreval("Qual a idade do aluno?")
  leia(idade)
+ 
+ limpatela
  
 escreval("digite as notas das 4 unidades")
      
