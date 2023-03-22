@@ -17,6 +17,8 @@ leia(n1)
 escreval("Digite o segundo numero ")
 leia(n2)
 
+limpatela
+
 escreval()
 
 // calculos
