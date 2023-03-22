@@ -1,6 +1,10 @@
 Algoritmo "semnome"
-// Autor(a)    : Kaique barbosa
+// Professor   : Carlos Anderson
+// Autor(a)    : Kaique Barbosa
 // Data atual  : 21/03/2023
+
+
+
 Var
 n1, n2, area: real
 
@@ -18,7 +22,7 @@ escreval()
 
 escreval("Base: ", n1)
 escreval("Altura: ", n2)
-escreval("¡rea: ", area)
+escreval("√Årea: ", area)
 
 
 Fimalgoritmo
