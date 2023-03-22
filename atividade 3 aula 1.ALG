@@ -16,6 +16,8 @@ escreval("Digite o tamanho da altura do triangulo")
 leia(n2)
 escreva("----------------------------------")
 
+limpatela
+
 area <- (n1 * n2) / 2;
 
 escreval()
