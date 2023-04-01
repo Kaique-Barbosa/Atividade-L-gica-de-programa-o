@@ -1,11 +1,11 @@
 Algoritmo "semnome"
-// Disciplina  :  [Linguagem e Lógica de Programação] 
+// Disciplina  :  [Linguagem e L?gica de Programa??o]
 // Professor   : Carlos
 // Autor(a)    : Kaique Barbosa
 // Data atual  : 22/03/2023
 
-// Elaboreum algoritimo para ler um valor e escrever a mensagem: É MAIOR QUE 10! se o valor
-//lido for maior que 10, caso contrario escrever NÂO É MAIOR QUE 10!
+// Elaboreum algoritimo para ler um valor e escrever a mensagem: ? MAIOR QUE 10! se o valor
+//lido for maior que 10, caso contrario escrever N?O ? MAIOR QUE 10!
 
 Var
 valor:Real;
@@ -19,13 +19,19 @@ leia(valor)
 limpatela
 
 // estrutura de calculo
-   se (valor > 10) entao
-      escreval("Seu valor é maior ou igual a 10!")
-      escreval("Seu valor é: ", valor)
+
+   
+   se (valor = 10) entao
+     escreval("O valor que vc digitou foi 10!")
    senao
-      escreval("Seu valor é menor que 10!")
-      escreval("Seu valor é: ", valor)
+     se (valor > 10) entao
+      escreval("Seu valor foi maior que  10!")
+      escreval("Seu valor ?: ", valor)
+   senao
+      escreval("Seu valor foi menor que 10!")
+      escreval("Seu valor ?: ", valor)
       
+   fimse
    fimse
 // FIM da estrutura de calculo
 
